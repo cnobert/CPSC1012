@@ -21,3 +21,4 @@ Console.Write("The area of the rectangle is ");
 Console.WriteLine(area);
 Console.WriteLine("");
 Console.WriteLine("----End of Program---");
+Console.WriteLine("----End of Program---");
