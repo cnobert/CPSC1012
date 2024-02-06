@@ -1,0 +1,14 @@
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\bin\Debug\net6.0\Lesson11-Strings.exe
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\bin\Debug\net6.0\Lesson11-Strings.deps.json
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\bin\Debug\net6.0\Lesson11-Strings.runtimeconfig.json
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\bin\Debug\net6.0\Lesson11-Strings.dll
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\bin\Debug\net6.0\Lesson11-Strings.pdb
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\obj\Debug\net6.0\Lesson11-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\obj\Debug\net6.0\Lesson11-Strings.AssemblyInfoInputs.cache
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\obj\Debug\net6.0\Lesson11-Strings.AssemblyInfo.cs
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\obj\Debug\net6.0\Lesson11-Strings.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\obj\Debug\net6.0\Lesson11-Strings.dll
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\obj\Debug\net6.0\refint\Lesson11-Strings.dll
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\obj\Debug\net6.0\Lesson11-Strings.pdb
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\obj\Debug\net6.0\Lesson11-Strings.genruntimeconfig.cache
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson11-Strings\obj\Debug\net6.0\ref\Lesson11-Strings.dll
