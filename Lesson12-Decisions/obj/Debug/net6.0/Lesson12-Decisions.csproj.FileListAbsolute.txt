@@ -1,0 +1,14 @@
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\bin\Debug\net6.0\Lesson12-Decisions.exe
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\bin\Debug\net6.0\Lesson12-Decisions.deps.json
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\bin\Debug\net6.0\Lesson12-Decisions.runtimeconfig.json
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\bin\Debug\net6.0\Lesson12-Decisions.dll
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\bin\Debug\net6.0\Lesson12-Decisions.pdb
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\obj\Debug\net6.0\Lesson12-Decisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\obj\Debug\net6.0\Lesson12-Decisions.AssemblyInfoInputs.cache
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\obj\Debug\net6.0\Lesson12-Decisions.AssemblyInfo.cs
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\obj\Debug\net6.0\Lesson12-Decisions.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\obj\Debug\net6.0\Lesson12-Decisions.dll
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\obj\Debug\net6.0\refint\Lesson12-Decisions.dll
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\obj\Debug\net6.0\Lesson12-Decisions.pdb
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\obj\Debug\net6.0\Lesson12-Decisions.genruntimeconfig.cache
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\CPSC1012\Lesson12-Decisions\obj\Debug\net6.0\ref\Lesson12-Decisions.dll
