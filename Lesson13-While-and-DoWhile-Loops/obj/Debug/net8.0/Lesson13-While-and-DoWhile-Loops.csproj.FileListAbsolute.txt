@@ -1,0 +1,14 @@
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\bin\Debug\net8.0\Lesson13-While-and-DoWhile-Loops.exe
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\bin\Debug\net8.0\Lesson13-While-and-DoWhile-Loops.deps.json
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\bin\Debug\net8.0\Lesson13-While-and-DoWhile-Loops.runtimeconfig.json
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\bin\Debug\net8.0\Lesson13-While-and-DoWhile-Loops.dll
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\bin\Debug\net8.0\Lesson13-While-and-DoWhile-Loops.pdb
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\obj\Debug\net8.0\Lesson13-While-and-DoWhile-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\obj\Debug\net8.0\Lesson13-While-and-DoWhile-Loops.AssemblyInfoInputs.cache
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\obj\Debug\net8.0\Lesson13-While-and-DoWhile-Loops.AssemblyInfo.cs
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\obj\Debug\net8.0\Lesson13-While-and-DoWhile-Loops.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\obj\Debug\net8.0\Lesson13-While-and-DoWhile-Loops.dll
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\obj\Debug\net8.0\refint\Lesson13-While-and-DoWhile-Loops.dll
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\obj\Debug\net8.0\Lesson13-While-and-DoWhile-Loops.pdb
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\obj\Debug\net8.0\Lesson13-While-and-DoWhile-Loops.genruntimeconfig.cache
+C:\Users\cnobert\Downloads\Lesson13-While-and-DoWhile-Loops\obj\Debug\net8.0\ref\Lesson13-While-and-DoWhile-Loops.dll
