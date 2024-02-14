@@ -1,0 +1,14 @@
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\bin\Debug\net8.0\Lesson14-For-Loops.exe
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\bin\Debug\net8.0\Lesson14-For-Loops.deps.json
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\bin\Debug\net8.0\Lesson14-For-Loops.runtimeconfig.json
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\bin\Debug\net8.0\Lesson14-For-Loops.dll
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\bin\Debug\net8.0\Lesson14-For-Loops.pdb
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\obj\Debug\net8.0\Lesson14-For-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\obj\Debug\net8.0\Lesson14-For-Loops.AssemblyInfoInputs.cache
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\obj\Debug\net8.0\Lesson14-For-Loops.AssemblyInfo.cs
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\obj\Debug\net8.0\Lesson14-For-Loops.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\obj\Debug\net8.0\Lesson14-For-Loops.dll
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\obj\Debug\net8.0\refint\Lesson14-For-Loops.dll
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\obj\Debug\net8.0\Lesson14-For-Loops.pdb
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\obj\Debug\net8.0\Lesson14-For-Loops.genruntimeconfig.cache
+C:\Users\cnobert\Downloads\Lesson14-For-Loops\obj\Debug\net8.0\ref\Lesson14-For-Loops.dll
