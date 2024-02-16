@@ -1,0 +1,14 @@
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\bin\Debug\net8.0\Lesson15-Exception-Handling.exe
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\bin\Debug\net8.0\Lesson15-Exception-Handling.deps.json
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\bin\Debug\net8.0\Lesson15-Exception-Handling.runtimeconfig.json
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\bin\Debug\net8.0\Lesson15-Exception-Handling.dll
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\bin\Debug\net8.0\Lesson15-Exception-Handling.pdb
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\obj\Debug\net8.0\Lesson15-Exception-Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\obj\Debug\net8.0\Lesson15-Exception-Handling.AssemblyInfoInputs.cache
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\obj\Debug\net8.0\Lesson15-Exception-Handling.AssemblyInfo.cs
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\obj\Debug\net8.0\Lesson15-Exception-Handling.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\obj\Debug\net8.0\Lesson15-Exception-Handling.dll
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\obj\Debug\net8.0\refint\Lesson15-Exception-Handling.dll
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\obj\Debug\net8.0\Lesson15-Exception-Handling.pdb
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\obj\Debug\net8.0\Lesson15-Exception-Handling.genruntimeconfig.cache
+C:\Users\cnobert\Downloads\Lesson15-Exception-Handling\Lesson15-Exception-Handling\obj\Debug\net8.0\ref\Lesson15-Exception-Handling.dll
