@@ -1,0 +1,14 @@
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\bin\Debug\net6.0\Lesson16-Review.exe
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\bin\Debug\net6.0\Lesson16-Review.deps.json
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\bin\Debug\net6.0\Lesson16-Review.runtimeconfig.json
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\bin\Debug\net6.0\Lesson16-Review.dll
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\bin\Debug\net6.0\Lesson16-Review.pdb
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\obj\Debug\net6.0\Lesson16-Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\obj\Debug\net6.0\Lesson16-Review.AssemblyInfoInputs.cache
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\obj\Debug\net6.0\Lesson16-Review.AssemblyInfo.cs
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\obj\Debug\net6.0\Lesson16-Review.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\obj\Debug\net6.0\Lesson16-Review.dll
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\obj\Debug\net6.0\refint\Lesson16-Review.dll
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\obj\Debug\net6.0\Lesson16-Review.pdb
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\obj\Debug\net6.0\Lesson16-Review.genruntimeconfig.cache
+C:\Users\cnobert\Downloads\2024-Jan-CPSC1012\Lesson16-Review\Lesson16-Review\obj\Debug\net6.0\ref\Lesson16-Review.dll
