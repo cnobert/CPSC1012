@@ -123,7 +123,7 @@
 //Tell them if their guess is lower or higher than the random number.
 
 //returns a random double between 10.24 and 36.22
-//double randomDouble = Random.Shared.Next(1024, 3622) / 100;
+//double randomDouble = Random.Shared.Next(1024, 3622) / 100.00;
 
 int randomInt = Random.Shared.Next(1, 101);
 int userGuess = 0;
