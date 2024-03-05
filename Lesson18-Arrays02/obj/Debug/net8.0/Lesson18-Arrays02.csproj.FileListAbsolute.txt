@@ -1,0 +1,14 @@
+C:\Users\cnobert\Documents\Lesson18-Arrays02\bin\Debug\net8.0\Lesson18-Arrays02.exe
+C:\Users\cnobert\Documents\Lesson18-Arrays02\bin\Debug\net8.0\Lesson18-Arrays02.deps.json
+C:\Users\cnobert\Documents\Lesson18-Arrays02\bin\Debug\net8.0\Lesson18-Arrays02.runtimeconfig.json
+C:\Users\cnobert\Documents\Lesson18-Arrays02\bin\Debug\net8.0\Lesson18-Arrays02.dll
+C:\Users\cnobert\Documents\Lesson18-Arrays02\bin\Debug\net8.0\Lesson18-Arrays02.pdb
+C:\Users\cnobert\Documents\Lesson18-Arrays02\obj\Debug\net8.0\Lesson18-Arrays02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Documents\Lesson18-Arrays02\obj\Debug\net8.0\Lesson18-Arrays02.AssemblyInfoInputs.cache
+C:\Users\cnobert\Documents\Lesson18-Arrays02\obj\Debug\net8.0\Lesson18-Arrays02.AssemblyInfo.cs
+C:\Users\cnobert\Documents\Lesson18-Arrays02\obj\Debug\net8.0\Lesson18-Arrays02.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Documents\Lesson18-Arrays02\obj\Debug\net8.0\Lesson18-Arrays02.dll
+C:\Users\cnobert\Documents\Lesson18-Arrays02\obj\Debug\net8.0\refint\Lesson18-Arrays02.dll
+C:\Users\cnobert\Documents\Lesson18-Arrays02\obj\Debug\net8.0\Lesson18-Arrays02.pdb
+C:\Users\cnobert\Documents\Lesson18-Arrays02\obj\Debug\net8.0\Lesson18-Arrays02.genruntimeconfig.cache
+C:\Users\cnobert\Documents\Lesson18-Arrays02\obj\Debug\net8.0\ref\Lesson18-Arrays02.dll
