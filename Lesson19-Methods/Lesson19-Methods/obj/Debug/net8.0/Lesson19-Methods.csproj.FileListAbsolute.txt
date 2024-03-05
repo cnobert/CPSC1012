@@ -1,0 +1,14 @@
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\bin\Debug\net8.0\Lesson19-Methods.exe
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\bin\Debug\net8.0\Lesson19-Methods.deps.json
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\bin\Debug\net8.0\Lesson19-Methods.runtimeconfig.json
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\bin\Debug\net8.0\Lesson19-Methods.dll
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\bin\Debug\net8.0\Lesson19-Methods.pdb
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\obj\Debug\net8.0\Lesson19-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\obj\Debug\net8.0\Lesson19-Methods.AssemblyInfoInputs.cache
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\obj\Debug\net8.0\Lesson19-Methods.AssemblyInfo.cs
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\obj\Debug\net8.0\Lesson19-Methods.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\obj\Debug\net8.0\Lesson19-Methods.dll
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\obj\Debug\net8.0\refint\Lesson19-Methods.dll
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\obj\Debug\net8.0\Lesson19-Methods.pdb
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\obj\Debug\net8.0\Lesson19-Methods.genruntimeconfig.cache
+C:\Users\cnobert\Documents\Lesson19-Methods\Lesson19-Methods\obj\Debug\net8.0\ref\Lesson19-Methods.dll
