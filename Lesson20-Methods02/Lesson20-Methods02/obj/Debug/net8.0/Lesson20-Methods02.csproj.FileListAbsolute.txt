@@ -1,0 +1,14 @@
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\bin\Debug\net8.0\Lesson20-Methods02.exe
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\bin\Debug\net8.0\Lesson20-Methods02.deps.json
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\bin\Debug\net8.0\Lesson20-Methods02.runtimeconfig.json
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\bin\Debug\net8.0\Lesson20-Methods02.dll
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\bin\Debug\net8.0\Lesson20-Methods02.pdb
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\obj\Debug\net8.0\Lesson20-Methods02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\obj\Debug\net8.0\Lesson20-Methods02.AssemblyInfoInputs.cache
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\obj\Debug\net8.0\Lesson20-Methods02.AssemblyInfo.cs
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\obj\Debug\net8.0\Lesson20-Methods02.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\obj\Debug\net8.0\Lesson20-Methods02.dll
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\obj\Debug\net8.0\refint\Lesson20-Methods02.dll
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\obj\Debug\net8.0\Lesson20-Methods02.pdb
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\obj\Debug\net8.0\Lesson20-Methods02.genruntimeconfig.cache
+C:\Users\cnobert\Documents\Lesson20-Methods02\Lesson20-Methods02\obj\Debug\net8.0\ref\Lesson20-Methods02.dll
