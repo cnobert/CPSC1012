@@ -1,0 +1,14 @@
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\bin\Debug\net8.0\Lesson22-Methods-Arrays.exe
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\bin\Debug\net8.0\Lesson22-Methods-Arrays.deps.json
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\bin\Debug\net8.0\Lesson22-Methods-Arrays.runtimeconfig.json
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\bin\Debug\net8.0\Lesson22-Methods-Arrays.dll
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\bin\Debug\net8.0\Lesson22-Methods-Arrays.pdb
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\obj\Debug\net8.0\Lesson22-Methods-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\obj\Debug\net8.0\Lesson22-Methods-Arrays.AssemblyInfoInputs.cache
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\obj\Debug\net8.0\Lesson22-Methods-Arrays.AssemblyInfo.cs
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\obj\Debug\net8.0\Lesson22-Methods-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\obj\Debug\net8.0\Lesson22-Methods-Arrays.dll
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\obj\Debug\net8.0\refint\Lesson22-Methods-Arrays.dll
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\obj\Debug\net8.0\Lesson22-Methods-Arrays.pdb
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\obj\Debug\net8.0\Lesson22-Methods-Arrays.genruntimeconfig.cache
+C:\Users\cnobert\Documents\Lesson22-Methods-Arrays\Lesson22-Methods-Arrays\obj\Debug\net8.0\ref\Lesson22-Methods-Arrays.dll
