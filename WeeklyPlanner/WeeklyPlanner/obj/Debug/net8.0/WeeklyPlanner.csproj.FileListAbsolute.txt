@@ -1,0 +1,14 @@
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\bin\Debug\net8.0\WeeklyPlanner.exe
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\bin\Debug\net8.0\WeeklyPlanner.deps.json
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\bin\Debug\net8.0\WeeklyPlanner.runtimeconfig.json
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\bin\Debug\net8.0\WeeklyPlanner.dll
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\bin\Debug\net8.0\WeeklyPlanner.pdb
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\obj\Debug\net8.0\WeeklyPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\obj\Debug\net8.0\WeeklyPlanner.AssemblyInfoInputs.cache
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\obj\Debug\net8.0\WeeklyPlanner.AssemblyInfo.cs
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\obj\Debug\net8.0\WeeklyPlanner.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\obj\Debug\net8.0\WeeklyPlanner.dll
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\obj\Debug\net8.0\refint\WeeklyPlanner.dll
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\obj\Debug\net8.0\WeeklyPlanner.pdb
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\obj\Debug\net8.0\WeeklyPlanner.genruntimeconfig.cache
+C:\Users\cnobert\Documents\WeeklyPlanner\WeeklyPlanner\obj\Debug\net8.0\ref\WeeklyPlanner.dll
