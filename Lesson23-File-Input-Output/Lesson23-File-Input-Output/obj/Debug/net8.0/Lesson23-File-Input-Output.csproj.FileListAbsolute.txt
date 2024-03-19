@@ -1,0 +1,14 @@
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\bin\Debug\net8.0\Lesson23-File-Input-Output.exe
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\bin\Debug\net8.0\Lesson23-File-Input-Output.deps.json
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\bin\Debug\net8.0\Lesson23-File-Input-Output.runtimeconfig.json
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\bin\Debug\net8.0\Lesson23-File-Input-Output.dll
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\bin\Debug\net8.0\Lesson23-File-Input-Output.pdb
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\obj\Debug\net8.0\Lesson23-File-Input-Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\obj\Debug\net8.0\Lesson23-File-Input-Output.AssemblyInfoInputs.cache
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\obj\Debug\net8.0\Lesson23-File-Input-Output.AssemblyInfo.cs
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\obj\Debug\net8.0\Lesson23-File-Input-Output.csproj.CoreCompileInputs.cache
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\obj\Debug\net8.0\Lesson23-File-Input-Output.dll
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\obj\Debug\net8.0\refint\Lesson23-File-Input-Output.dll
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\obj\Debug\net8.0\Lesson23-File-Input-Output.pdb
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\obj\Debug\net8.0\Lesson23-File-Input-Output.genruntimeconfig.cache
+C:\Users\cnobert\Documents\Lesson23-File-Input-Output\Lesson23-File-Input-Output\obj\Debug\net8.0\ref\Lesson23-File-Input-Output.dll
