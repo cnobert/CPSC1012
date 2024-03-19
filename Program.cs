@@ -1,4 +1,4 @@
-﻿bool displayMainMenu = true;
+bool displayMainMenu = true;
 string mainMenuChoice;
 bool quit = false;
 
@@ -56,6 +56,7 @@ static string Prompt(string promptString)
 //gets them to enter one task and one priority for each day after that
 static void EnterTasksForWeek(string[] theDays, string[] theTasks, int[] thePriorities)
 {
+    //WEEK OF March 17 - have this method return numberOfEntries
     string dayOfTheWeek = "";
     Console.WriteLine("What day of the week do you want your plan to start on?");
     dayOfTheWeek = PromptForWeek();
