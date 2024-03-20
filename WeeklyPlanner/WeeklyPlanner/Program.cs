@@ -6,30 +6,39 @@ const int MaxArraySize = 7;
 string[] days = new string[MaxArraySize];
 string[] tasks = new string[MaxArraySize];
 int[] priorities = new int[MaxArraySize];
-
+int numberOfEntries = 0; //logical size of arrays
 
 DisplayIntro();
 while(displayMainMenu)
 {
     DisplayMainMenu();
-    mainMenuChoice = Prompt("Enter MAIN MENU option ('D' to display menu): ");
+    mainMenuChoice = Prompt("Enter MAIN MENU option ('D' to display menu): ").ToUpper();
     switch(mainMenuChoice)
     {
-        case "E":
-            EnterTasksForWeek(days, tasks, priorities);
+        case "E": //[E]nter your plans for the week
+            numberOfEntries = EnterTasksForWeek(days, tasks, priorities);
+            break;
+        case "S":
+            SaveEntriesToFile(days, tasks, priorities, numberOfEntries);
+            break;
+        case "L":
+            numberOfEntries = LoadEntriesFromFile(days, tasks, priorities);
+            break;
+        case "V":
+            ShowEntries(days, tasks, priorities, numberOfEntries);
             break;
         case "D":
             break;
-        case "Q":
-            quit = Prompt("Are you sure you want to quit (y/N)?").ToLower() == "y";
+        case "Q": //[Q]uit Program
+            quit = Prompt("Are you sure you want to quit (y/N)? ").ToLower().Equals("y");
             Console.WriteLine();
-            if(quit)
+            if (quit)
             {
                 displayMainMenu = false;
             }
             break;
-        default:
-            Console.WriteLine("Invalid response. Enter one of the letters to choose a menu option.");
+        default: //invalid entry. Reprompt.
+            Console.WriteLine("Invalid reponse. Enter one of the letters to choose a menu option.");
             break;
     }
 }
@@ -44,6 +53,9 @@ static void DisplayMainMenu()
 {
     Console.WriteLine(
         "[E]nter your plans for the week\n" +
+        "[S]ave entries to file\n" +
+        "[L]oad entries from file\n" +
+        "[V]iew entries\n" +
         "[Q]uit Program");
 }
 static string Prompt(string promptString)
@@ -54,25 +66,138 @@ static string Prompt(string promptString)
 
 //EnterTasksForWeek asks the user what day of the week they want to start on, and then 
 //gets them to enter one task and one priority for each day after that
-static void EnterTasksForWeek(string[] theDays, string[] theTasks, int[] thePriorities)
+static int EnterTasksForWeek(string[] theDays, string[] theTasks, int[] thePriorities)
 {
-    //WEEK OF March 17 - have this method return numberOfEntries
-    string dayOfTheWeek = "";
-    Console.WriteLine("What day of the week do you want your plan to start on?");
-    dayOfTheWeek = PromptForWeek();
+    int numberOfTasks;
+    numberOfTasks = GetIntAboveZero("How many tasks do you want to enter?");
 
-    int dayOfTheWeekAsInt = ConvertWeekdayToInt(dayOfTheWeek);
-    while(dayOfTheWeekAsInt < MaxArraySize && dayOfTheWeek != "BYE")
+    string theDay = "";
+    int c = 0;
+    while(c < numberOfTasks)
     {
-        Console.WriteLine("Enter the task and priority for " + ConvertIntToWeekday(dayOfTheWeekAsInt));
-        theDays[dayOfTheWeekAsInt] = ConvertIntToWeekday(dayOfTheWeekAsInt);
-        theTasks[dayOfTheWeekAsInt] = Prompt("Task");
-        thePriorities[dayOfTheWeekAsInt] = GetIntAboveZero("Enter a priority [must be a whole number above zero]:");
-        dayOfTheWeekAsInt++;
+        Console.WriteLine("Enter the task and priority for " + ConvertIntToWeekday(c));
+        theDays[c] = ConvertIntToWeekday(c);
+        theTasks[c] = Prompt("Task:");
+        thePriorities[c] = GetIntAboveZero("Enter a priority [whole number above zero]");
+        c++;
     }
     Console.WriteLine("---Congratulations you've set your priorities for the week!---");
+    return numberOfTasks;
 }
 
+static void ShowEntries(string[] theDays, string[] theTasks, int[] thePriorities, int numberOfEntries)
+{
+    if(numberOfEntries <= 0)
+    {
+        Console.WriteLine("Can't display entries - please make entries or load a file of entries");
+    }
+    else
+    {
+        Console.WriteLine("-----DISPLAYING ENTRIES-----");
+        Console.WriteLine("The current entries are:");
+        for(int c = 0; c < numberOfEntries; c++) 
+        {
+            Console.WriteLine("---");
+            Console.WriteLine($"Day:{theDays[c]}");
+            Console.WriteLine($"Task:{theTasks[c]}");
+            Console.WriteLine($"Priority:{thePriorities[c]}");
+            Console.WriteLine("---");
+        }
+        Console.WriteLine("----------------------------");
+    }
+
+}
+static void SaveEntriesToFile(string[] theDays, string[] theTasks, int[] thePriorities, int numberOfEntries)
+{
+    string fileName = PromptForFilename();
+    StreamWriter writer;
+
+    // File write example
+    Console.WriteLine("Writing file " + fileName);
+
+    try
+    {
+        writer = new StreamWriter(fileName);
+
+        writer.WriteLine("Day, Task, Priority");
+        int c = 0;
+        while (c < numberOfEntries)
+        {
+            writer.WriteLine($"{theDays[c]},{theTasks[c]},{thePriorities[c]}");
+            c++;
+        }
+
+        writer.Close();
+    }
+    catch (Exception e)
+    {
+        Console.WriteLine($"Something went wrong: {e.Message}");
+    }
+}
+static int LoadEntriesFromFile(string[] theDays, string[] theTasks, int[] thePriorities)
+{
+    string fileName = PromptForFilename();
+    int c = 0;
+    StreamReader reader;
+    Console.WriteLine("===== Basic File Read =====");
+    if (File.Exists(fileName))
+    {
+        try
+        {
+            reader = new StreamReader(fileName);
+            reader.ReadLine();
+            while (!reader.EndOfStream)
+            {
+                string line = reader.ReadLine();
+                theDays[c] = line.Substring(0, line.IndexOf(","));
+                string restOfLine = line.Substring(line.IndexOf(",") + 1);
+                theTasks[c] = restOfLine.Substring(0, line.IndexOf(","));
+                restOfLine = restOfLine.Substring(restOfLine.IndexOf(",") + 1);
+                thePriorities[c] = int.Parse(restOfLine);
+                c++;
+            }
+
+            reader.Close();
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine($"Something went wrong: {e.Message}");
+        }
+    }
+    return c;
+}
+static string PromptForFilename()
+{
+    string filename = "";
+    bool isValidFilename = true;
+    const string CsvFileExtension = ".csv";
+    const string TxtFileExtension = ".txt";
+
+    do
+    {
+        filename = Prompt("Enter name of .csv or .txt file to save to (e.g. JAN-2024-sales.csv): ");
+        if (filename == "")
+        {
+            isValidFilename = false;
+            Console.WriteLine("Please try again. The filename cannot be blank or just spaces.");
+        }
+        else
+        {
+            if (!filename.EndsWith(CsvFileExtension) && !filename.EndsWith(TxtFileExtension)) //if filename does not end with .txt or .csv.
+            {
+                filename = filename + CsvFileExtension; //append .csv to filename
+                Console.WriteLine("It looks like your filename does not end in .csv or .txt, so it will be treated as a .csv file.");
+                isValidFilename = true;
+            }
+            else
+            {
+                Console.WriteLine("It looks like your filename ends in .csv or .txt, which is good!");
+                isValidFilename = true;
+            }
+        }
+    } while (!isValidFilename);
+    return filename;
+}
 static string PromptForWeek()
 {
     bool validAnswer = false;
