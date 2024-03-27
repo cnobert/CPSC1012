@@ -1,0 +1,3 @@
+Day, Task, Priority
+SUN,conrad,3
+MON,nobert,5

@@ -29,6 +29,32 @@ while(displayMainMenu)
             break;
         case "D":
             break;
+        case "H":
+            int indexOfHighest = Highest(priorities, numberOfEntries);
+            if (indexOfHighest == -1)
+            {
+                Console.WriteLine("You must enter data if you want to view the highest priority.");
+            }
+            else
+            {
+                Console.WriteLine($"The highest priority for the week is:{priorities[indexOfHighest]}");
+            }
+            break;
+        case "T":
+            int indexOfTiniest = Tiniest(priorities, numberOfEntries);
+            if (indexOfTiniest == -1)
+            {
+                Console.WriteLine("You must enter data if you want to view the tiniest priority.");
+            }
+            else
+            {
+                Console.WriteLine($"The tiniest priority for the week is:{priorities[indexOfTiniest]}");
+            }
+            break;
+        case "A":
+            Console.WriteLine($"The average priority for the week is {Average(priorities, numberOfEntries)}");
+            break;
+
         case "Q": //[Q]uit Program
             quit = Prompt("Are you sure you want to quit (y/N)? ").ToLower().Equals("y");
             Console.WriteLine();
@@ -41,6 +67,66 @@ while(displayMainMenu)
             Console.WriteLine("Invalid reponse. Enter one of the letters to choose a menu option.");
             break;
     }
+}
+static double Average(int[] priorities, int numEntries)
+{   double sum = 0;
+    double average = 0;
+    if (numEntries > 0)
+    {
+        for (int c = 0; c < numEntries; c++)
+        {
+            sum += priorities[c];
+        }
+        average = sum / numEntries;
+    }
+    return average;
+}
+static int Tiniest(int[] priorities, int numEntries)
+{
+    int indexOfTiniest = 0;
+    if(numEntries <= 0)
+    {
+        indexOfTiniest = -1;
+    }
+    else
+    {
+        for(int c = 0; c < numEntries; c++) 
+        {
+            if (priorities[c] < priorities[indexOfTiniest])
+            {
+                indexOfTiniest = c;
+            }
+        }
+    }
+    return indexOfTiniest;
+}
+static int Highest(int[] priorities, int numEntries)
+{
+    #region algorithm
+    //algorithm for finding the largest value in an array:
+    //declare a variable "highest"
+    //set highest = first value in array
+    //loop through the array
+    //for each value in the array, if it is higher than
+    //the highest, it becomes the new highest
+    #endregion
+    int indexOfHighest = 0;
+    if (numEntries <= 0)
+    {
+        //abort
+        indexOfHighest = -1;
+    }
+    else
+    {
+        for (int c = 0; c < numEntries; c++)
+        {
+            if (priorities[c] > priorities[indexOfHighest])
+            {
+                indexOfHighest = c;
+            }
+        }
+    }
+    return indexOfHighest;
 }
 
 static void DisplayIntro()
@@ -56,6 +142,9 @@ static void DisplayMainMenu()
         "[S]ave entries to file\n" +
         "[L]oad entries from file\n" +
         "[V]iew entries\n" +
+        "[H]ighest Priority\n" +
+        "[T]iniest Priority\n" +
+        "[A]verage Priority\n" +
         "[Q]uit Program");
 }
 static string Prompt(string promptString)
@@ -114,7 +203,6 @@ static void SaveEntriesToFile(string[] theDays, string[] theTasks, int[] thePrio
 
     // File write example
     Console.WriteLine("Writing file " + fileName);
-
     try
     {
         writer = new StreamWriter(fileName);
